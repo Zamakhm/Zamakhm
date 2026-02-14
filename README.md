@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahamat Saleh Zamakhchari
 
-<!--
-**Zamakhm/Zamakhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student in Information Systems & Industrial Engineering  
+💼 SAP MM Consultant Apprentice @ Savencia  
+🌍 Interested in Digital Transformation & Data-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- SAP MM / Procure-to-Pay
+- Python & Data Analysis
+- SQL & Power BI
+- Process Optimization
+- Business & IT Alignment
+
+---
+
+## 📌 Current Focus
+
+🔹 ERP & business process optimization  
+🔹 Data analytics & automation  
+🔹 Digital transformation projects  
+
+---
+
+## 🌍 Looking for
+
+✔ International internship – Summer 2026  
+✔ Opportunities in digital transformation & consulting  
+
+---
+
+## 📫 Contact
+
+LinkedIn: [ton lien]  
+Email: zamakhm@yahoo.com
