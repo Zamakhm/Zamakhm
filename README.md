@@ -33,5 +33,6 @@
 
 ## 📫 Contact
 
-LinkedIn:(https://www.linkedin.com/in/zamakhchari-mahamat-saleh/)
+LinkedIn: https://www.linkedin.com/in/zamakhchari-mahamat-saleh/
+
 Email: zamakhm@yahoo.com
